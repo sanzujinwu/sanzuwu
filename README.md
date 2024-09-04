@@ -3,7 +3,7 @@
 <p align = "center">
     <img src="logo.png" width="96">
     <h3 align = "center">三足乌数据中台</h3>
-    <p align = "center">数据低代码、一体化数据中台</p>
+    <p align = "center">数据可视化开发、一体化数据中台</p>
 </p>
 
 
